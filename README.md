@@ -7,12 +7,17 @@ ________________________________________________________________________________
 Please install the following programs/software on your laptops prior to the Tutorial-
 1. **VMD 1.9.3** - This can be installed on MacOS, Windows or Linux. (Newer MacOS users may need to install 1.9.4 alpha suitable to the the OS/CPU). https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 ![image](https://user-images.githubusercontent.com/130017040/230256427-bb38ff1e-71b0-4b67-872a-f7c4f793652d.png)
-2. **GROMACS** version 2020.X or newer. The instructions for these are OS Dependant and detailed below-
- ** MacOS** Users- 
+2. **GROMACS** version 2020.X or newer. The instructions for these are OS Dependant and detailed below
+
+  **MacOS** Users
   The Package Manager Homebrew is the easiest way to have GROMACS installed on your laptop - https://brew.sh/
-  Once brew in installed on your MacOS Terminal and is the package manager, simply use - brew install gromacs
-  Brew with download the require dependencies and libraries and after installation, type gmx -version in the terminal and make sure there is an output.
+  Once brew in installed on your MacOS Terminal and is the package manager, simply use 
+  
+  brew install gromacs
+  
+  Brew will download the required dependencies and libraries and after installation, type gmx -version in the terminal and make sure there is an output.
   This should currently default to the 2023 Version of GROMACS - https://formulae.brew.sh/formula/gromacs
+  
   **Windows** Users-
   Windows Subsystem for Linux provides an excellent platform to work in. To enable this simply follow the instructions on this page https://learn.microsoft.com/en-us/windows/wsl/install
   ![image](https://user-images.githubusercontent.com/130017040/230258348-7f5078ad-e683-46bb-ba56-cd9f9e271954.png)
