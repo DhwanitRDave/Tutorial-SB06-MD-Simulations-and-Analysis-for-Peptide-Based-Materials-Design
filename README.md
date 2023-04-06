@@ -7,7 +7,7 @@ ________________________________________________________________________________
 Please install the following programs/software on your laptops prior to the Tutorial-
 1. **VMD 1.9.3** - This can be installed on MacOS, Windows or Linux. (Newer MacOS users may need to install 1.9.4 alpha suitable to the the OS/CPU). https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 ![image](https://user-images.githubusercontent.com/130017040/230256427-bb38ff1e-71b0-4b67-872a-f7c4f793652d.png)
-2. **GROMACS** version 2020.X or newer. The instructions for these are OS Dependant and detailed below
+2. **GROMACS** version 2021.X or newer. The instructions for these are OS Dependant and detailed below
 
   **MacOS** Users
   The Package Manager Homebrew is the easiest way to have GROMACS installed on your laptop - https://brew.sh/
