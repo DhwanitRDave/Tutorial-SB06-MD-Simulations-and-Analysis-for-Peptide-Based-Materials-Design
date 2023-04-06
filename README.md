@@ -20,12 +20,20 @@ Please install the following programs/software on your laptops prior to the Tuto
   
   **Windows** Users-
   Windows Subsystem for Linux provides an excellent platform to work in. To enable this simply follow the instructions on this page https://learn.microsoft.com/en-us/windows/wsl/install
-  ![image](https://user-images.githubusercontent.com/130017040/230258348-7f5078ad-e683-46bb-ba56-cd9f9e271954.png)
+
+![image](https://user-images.githubusercontent.com/130017040/230258348-7f5078ad-e683-46bb-ba56-cd9f9e271954.png)
+
 A successful installation should install Ubuntu-22.04 and after setting up you should be at a screen like this -
+
 ![image](https://user-images.githubusercontent.com/130017040/230258755-5ee96abb-5fa4-4406-9ad9-2ad0b47865b6.png)
+
 To then install a basic compilation of GROMACS, simply use - sudo apt install gromacs
+
 ![image](https://user-images.githubusercontent.com/130017040/230259678-4dde0d73-2c60-4283-9b5b-b5bf5d669450.png)
+
 Check the output of gmx -version in the terminal
+
 ![image](https://user-images.githubusercontent.com/130017040/230259861-eb45445d-e0f6-448d-91c8-46fbfa0df59b.png)
+
 **Linux** Users - You can also install GROMACS with your distro package manager or compile a version - https://manual.gromacs.org/documentation/2022.5/install-guide/index.html
-_________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
